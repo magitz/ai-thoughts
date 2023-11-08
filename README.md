@@ -5,3 +5,5 @@
 ## Adding info on GitHub
 
 * This edit was made on GitHub.
+
+## Adding a change on Atlas
