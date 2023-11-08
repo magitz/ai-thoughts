@@ -1,2 +1,3 @@
-# ai-thoughts
-A repo for information on AI
+## Things I want to do with AI
+* Have fun
+* Take over the world
