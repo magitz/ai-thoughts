@@ -1,5 +1,7 @@
 # My Amazing Thoughts and Resources on AI
 
+Testing
+
 ## Things I want to do with AI
 
 * Have fun
